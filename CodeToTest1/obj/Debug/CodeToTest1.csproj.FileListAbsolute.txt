@@ -1,0 +1,9 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\CodeToTest1\bin\Debug\CodeToTest1.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\CodeToTest1\bin\Debug\CodeToTest1.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\CodeToTest1\obj\Debug\CodeToTest1.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\CodeToTest1\obj\Debug\CodeToTest1.pdb
+S:\SMA\RemoteTestHarness_Project4\CodeToTest1\bin\Debug\CodeToTest1.dll
+S:\SMA\RemoteTestHarness_Project4\CodeToTest1\bin\Debug\CodeToTest1.pdb
+S:\SMA\RemoteTestHarness_Project4\CodeToTest1\obj\Debug\CodeToTest1.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\CodeToTest1\obj\Debug\CodeToTest1.dll
+S:\SMA\RemoteTestHarness_Project4\CodeToTest1\obj\Debug\CodeToTest1.pdb

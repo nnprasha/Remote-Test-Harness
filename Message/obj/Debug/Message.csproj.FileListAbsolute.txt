@@ -1,0 +1,11 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Message\bin\Debug\Message.dll.config
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Message\bin\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Message\bin\Debug\Message.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Message\obj\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Message\obj\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\Message\bin\Debug\Message.dll.config
+S:\SMA\RemoteTestHarness_Project4\Message\bin\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\Message\bin\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\Message\obj\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\Message\obj\Debug\Message.pdb

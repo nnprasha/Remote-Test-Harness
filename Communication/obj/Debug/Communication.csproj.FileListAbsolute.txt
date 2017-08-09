@@ -1,0 +1,22 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Communication.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Communication.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\BlockingQueue.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Serialization.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\BlockingQueue.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Message.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\bin\Debug\Serialization.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.pdb
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Communication.dll
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Communication.pdb
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\BlockingQueue.dll
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Serialization.dll
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\BlockingQueue.pdb
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\Communication\bin\Debug\Serialization.pdb
+S:\SMA\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.dll
+S:\SMA\RemoteTestHarness_Project4\Communication\obj\Debug\Communication.pdb

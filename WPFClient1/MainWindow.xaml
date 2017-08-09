@@ -1,0 +1,41 @@
+﻿<Window x:Class="RemoteTestHarness.WPFClient1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RemoteTestHarness"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+           
+            <Button Height="23" Margin="50,0" Name="ConnectButton" VerticalAlignment="Center"
+              Width="81" Click="SendMessageButton_Click">Send Message</Button>
+            <Button Height="23" Margin="200,0" Name="ListenButton" VerticalAlignment="Center"
+              Width="78" Click="RetrieveLogsButton_Click">Retrieve Logs</Button>
+        </StackPanel>
+        
+        <Grid Grid.Row="1">
+            <Label Height="28" Margin="30,0" Name="label3" VerticalAlignment="Center"
+             HorizontalAlignment="Right" Width="210" HorizontalContentAlignment="Center">
+                Received Messages</Label>
+            <Label Height="28" Margin="30,0" Name="label2" VerticalAlignment="Center"
+             HorizontalAlignment="Left" Width="210" HorizontalContentAlignment="Center">
+                Sent Messages</Label>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" Margin="30, 20, 15, 20" Name="listBox1" />
+            <ListBox Grid.Column="1" Margin="15, 20, 30, 20" Name="listBox2" />
+        </Grid>
+    </Grid>
+</Window>

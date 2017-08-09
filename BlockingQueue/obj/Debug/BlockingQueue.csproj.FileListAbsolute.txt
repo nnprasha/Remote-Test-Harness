@@ -1,0 +1,9 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\BlockingQueue\bin\Debug\BlockingQueue.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\BlockingQueue\obj\Debug\BlockingQueue.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\BlockingQueue\obj\Debug\BlockingQueue.pdb
+S:\SMA\RemoteTestHarness_Project4\BlockingQueue\bin\Debug\BlockingQueue.dll
+S:\SMA\RemoteTestHarness_Project4\BlockingQueue\bin\Debug\BlockingQueue.pdb
+S:\SMA\RemoteTestHarness_Project4\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\BlockingQueue\obj\Debug\BlockingQueue.dll
+S:\SMA\RemoteTestHarness_Project4\BlockingQueue\obj\Debug\BlockingQueue.pdb

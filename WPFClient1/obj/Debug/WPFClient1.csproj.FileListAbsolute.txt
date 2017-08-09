@@ -1,0 +1,52 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.exe.config
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.exe
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Communication.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\MessageTest.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Parser.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Serialization.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\BlockingQueue.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Communication.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\MessageTest.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Message.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Parser.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Serialization.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\bin\Debug\BlockingQueue.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\MainWindow.g.cs
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\App.g.cs
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1_MarkupCompile.cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1_MarkupCompile.lref
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\MainWindow.baml
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.g.resources
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.Properties.Resources.resources
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.csproj.GenerateResource.Cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.exe
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.exe.config
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.exe
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.exe
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\WPFClient1.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Communication.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\MessageTest.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Parser.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Serialization.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\BlockingQueue.dll
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Communication.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\MessageTest.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Parser.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\Serialization.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\bin\Debug\BlockingQueue.pdb
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\MainWindow.g.cs
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\App.g.cs
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1_MarkupCompile.cache
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1_MarkupCompile.lref
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\MainWindow.baml
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.g.resources
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.Properties.Resources.resources
+S:\SMA\RemoteTestHarness_Project4\WPFClient1\obj\Debug\WPFClient1.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\bin\Debug\Serialization.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\bin\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\bin\Debug\Message.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.pdb
+S:\SMA\RemoteTestHarness_Project4\Serialization\bin\Debug\Serialization.dll
+S:\SMA\RemoteTestHarness_Project4\Serialization\bin\Debug\Serialization.pdb
+S:\SMA\RemoteTestHarness_Project4\Serialization\bin\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\Serialization\bin\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+S:\SMA\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.dll
+S:\SMA\RemoteTestHarness_Project4\Serialization\obj\Debug\Serialization.pdb

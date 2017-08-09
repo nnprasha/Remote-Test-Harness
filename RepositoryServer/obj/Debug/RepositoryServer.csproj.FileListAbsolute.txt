@@ -1,0 +1,40 @@
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.exe.config
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.exe
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Communication.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Logger.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Message.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\MessageTest.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Parser.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Serialization.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\BlockingQueue.dll
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Communication.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Logger.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\MessageTest.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Message.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Parser.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Serialization.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\BlockingQueue.pdb
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.exe
+C:\Users\Nikhil\documents\visual studio 2015\Projects\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.exe.config
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.exe
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.exe
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\RepositoryServer.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Communication.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Logger.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Message.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\MessageTest.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Parser.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Serialization.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\BlockingQueue.dll
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Communication.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Logger.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\MessageTest.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Message.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Parser.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\Serialization.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\bin\Debug\BlockingQueue.pdb
+S:\SMA\RemoteTestHarness_Project4\RepositoryServer\obj\Debug\RepositoryServer.csprojResolveAssemblyReference.cache
